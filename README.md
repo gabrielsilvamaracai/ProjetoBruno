@@ -1,5 +1,5 @@
 # Introdução
-    Caro professor Bruno, eu faltei na sua aula de sexta feira, no dia em que o professor passou a atividade de reposição de aula,
+Caro professor Bruno, eu faltei na sua aula de sexta feira, no dia em que o professor passou a atividade de reposição de aula,
 pois deu uma ventania e mal tempo, e acabou a energia aqui em casa. Ficou horas sem energia e o portão eletrônico nao abre sem energia elétrica.
 Resultado: fiquei preso em casa e não pude ir na sua aula. Nesse dia, o senhor passou a atividade e eu nao fiquei sabendo.
 
@@ -11,6 +11,7 @@ Muito obrigado!
 
 # Como testar
 
-    Utilizei mariadb como banco de dados. No terminal:
+Utilizei mariadb como banco de dados. No terminal
 
     `dotnet add package Pomelo.EntityFrameworkCore.MySql`
+
