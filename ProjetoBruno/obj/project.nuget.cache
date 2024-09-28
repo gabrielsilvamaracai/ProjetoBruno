@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMn60uu+ZT6BE4bjmXNLov/cBFKYVzCeN7syMZ1WywnidSmlQxN1qCV3GUcNjxktAE3kdvaZc1KqDZ4bXNoWXg==",
+  "success": true,
+  "projectFilePath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
+  "expectedPackageFiles": [
+    "/home/barba/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
