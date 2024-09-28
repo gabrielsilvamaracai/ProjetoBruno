@@ -13,5 +13,5 @@ Muito obrigado!
 
 Utilizei mariadb como banco de dados. No terminal
 
-    `dotnet add package Pomelo.EntityFrameworkCore.MySql`
+    dotnet add package Pomelo.EntityFrameworkCore.MySql
 
