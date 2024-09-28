@@ -1,7 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using ProjetoBruno.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Configuração do banco de dados.
+builder.Services.AddDbContext<ConnectionContext>( options => {
+    var connectionString = builder.Configuration.GetConnectionString("ConnectionContext");
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+});
 
 var app = builder.Build();
 
