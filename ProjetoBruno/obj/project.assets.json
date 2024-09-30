@@ -4190,11 +4190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
+      "projectUniqueName": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/Gabriel/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
       "projectName": "ProjetoBruno",
-      "projectPath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
+      "projectPath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/Gabriel/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
       "packagesPath": "/home/barba/.nuget/packages/",
-      "outputPath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/ProjetoBruno/ProjetoBruno/obj/",
+      "outputPath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/Gabriel/ProjetoBruno/ProjetoBruno/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/barba/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4eClZvOHxHdlR5UanBlMQidnlrKvRge14oG2BFZRO/tmsDwg3XHaVWJU5S7qrVsis+dk4F04lpkO+DTPMlrCRg==",
+  "dgSpecHash": "XmfJl3dFXtftlRkQSxWraSYtZVxLtUEb56XuzL7HOBjXrDG5UQXTpVL0PE2liaACDv5eN6QyP7fhXFmHYPfX8w==",
   "success": true,
-  "projectFilePath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
+  "projectFilePath": "/run/media/barba/e4ac21e0-de37-4d3a-901f-ec7420de08ec/barba/Documents/Gabriel/ProjetoBruno/ProjetoBruno/ProjetoBruno.csproj",
   "expectedPackageFiles": [
     "/home/barba/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/barba/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
